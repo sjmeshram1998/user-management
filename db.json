@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "firstName": "sneha meshram",
+      "lastName": "tempe",
+      "email": "webdeveloperahul@gmail.com",
+      "mobile": "9834123456",
+      "salary": "80,000"
+    },
+    {
+      "id": "2",
+      "firstName": "Reshma",
+      "lastName": "Mahalle",
+      "email": "reshma@gmail.com",
+      "mobile": "874169741",
+      "salary": "40,000"
+    },
+    {
+      "id": "71af",
+      "firstName": "sakshi ",
+      "lastName": "tempe",
+      "email": "sakshi34@s.com",
+      "mobile": "7957553510",
+      "salary": "45698"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": "2271",
+      "fullname": "sneha meshram",
+      "email": "sneha@gmail.com",
+      "password": "123456789",
+      "mobile": ""
+    },
+    {
+      "id": "a972",
+      "fullname": "janvi bhowate",
+      "mobile": "",
+      "email": "janvi@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "ae8d",
+      "fullname": "sakshi tempe",
+      "phone": "",
+      "email": "sakshi@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "e7ac",
+      "fullname": "sonu ",
+      "phone": "",
+      "email": "sonu@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "7cab",
+      "fullname": "shreya",
+      "phone": 7418529632,
+      "email": "shreya@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
